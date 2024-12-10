@@ -6,3 +6,4 @@ streamlit==1.40.2
 matplotlib
 seaborn
 google-generativeai
+scikit-learn
